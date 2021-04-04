@@ -20,7 +20,7 @@ A stable pluggable Telegram userbot, based on Telethon.
 
 # Deploy 
 - [Heroku](https://github.com/Patrick489/Ultroid#Deploy-to-Heroku)
-- [Local Machine](https://github.com/TeamUltroid/Ultroid#Deploy-Locally)
+- [Local Machine](https://github.com/Patrick489/Ultroid#Deploy-Locally)
 
 ## Deploy to Heroku
 - Get your `API_ID` and `API_HASH` from [here](https://my.telegram.org/)    
